@@ -1,13 +1,13 @@
 # Art_work
 
 ## Dog Acrylic Painting
-<img src="IMG_20210419_172642.jpg" width="500" height="600">
+<img src="IMG_20210419_172642.jpg" width="500" height="500">
 
 ## Commission Art work
-<img src="1649304450186.jpg" width="500" height="600">
+<img src="1649304450186.jpg" width="500" height="500">
 
 ## Pencil Sketch work
-<img src="4444.jpg" width="500" height="600">
+<img src="4444.jpg" width="500" height="500">
 
 ## Ball pen Sketch work
 <img src="1649306688121.jpg" width="500" height="600">
