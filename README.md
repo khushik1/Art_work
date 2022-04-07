@@ -21,10 +21,10 @@
 ## Pencil Sketch work
 <img src="66666.jpg" width="500" height="600">
 
-## Pestel color Art work
+## Pastel color Art work
 <img src="IMG_20211020_083300.jpg" width="500" height="600">
 
-## Pestel color Art work
+## Pastel color Art work
 <img src="111111.jpg" width="500" height="600">
 
 ## Water color Art work
