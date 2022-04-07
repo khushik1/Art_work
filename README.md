@@ -27,11 +27,17 @@
 ## Pastel color Art work
 <img src="111111.jpg" width="500" height="600">
 
+## Graphite powder Art work
+<img src="IMG-20201023-WA0007-1.jpg" width="500" height="600">
+
 ## Water color Art work
 <img src="IMG_20211102_094657.jpg" width="500" height="600">
 
 ## Pencil Sketch work
 <img src="66666.jpg" width="500" height="600">
+
+## Pencil Sketch work
+<img src="tiger.jpg" width="500" height="600">
 
 ## Horse Acrylic Painting
 <img src="8888.jpg" width="500" height="600">
